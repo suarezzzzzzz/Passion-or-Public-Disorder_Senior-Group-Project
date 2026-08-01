@@ -1,7 +1,5 @@
 # Philadelphia Sports and Traffic Stops Analysis
-
 *Medhavi Jambhekar, Vijetha Ramdas, Charlotte Suarez, Jasmine Xu, Alejandro Zamudio*
----
 
 ## Project Overview
 
